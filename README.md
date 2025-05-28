@@ -1,1 +1,1 @@
-[![Coverage Status](https://coveralls.io/repos/github/Mursulov/lab05/badge.svg?branch=main)](https://coveralls.io/github/Mursulov/lab05?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/Vadimgtatop1/lab5/badge.svg?branch=main)](https://coveralls.io/github/Vadimgtatop1/lab5?branch=main)
